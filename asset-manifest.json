@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/fcyip/static/css/main.eea5a87f.css",
+    "main.js": "/fcyip/static/js/main.a68e9df0.js",
+    "static/js/787.59a85027.chunk.js": "/fcyip/static/js/787.59a85027.chunk.js",
+    "static/media/Yip.png": "/fcyip/static/media/Yip.586c945bea58a7edfbaa.png",
+    "static/media/logo.svg": "/fcyip/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fcyip/index.html",
+    "main.eea5a87f.css.map": "/fcyip/static/css/main.eea5a87f.css.map",
+    "main.a68e9df0.js.map": "/fcyip/static/js/main.a68e9df0.js.map",
+    "787.59a85027.chunk.js.map": "/fcyip/static/js/787.59a85027.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea5a87f.css",
+    "static/js/main.a68e9df0.js"
+  ]
+}
